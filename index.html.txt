@@ -1,8 +1,0 @@
-<html>
-
-	<body>
-
-		<h1> Pruebas de github
-			</h1>
-	</body>
-</html>
